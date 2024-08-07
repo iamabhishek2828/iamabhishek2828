@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhishek Choudhary</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamabhishek2828&label=Profile%20views&color=0e75b6&style=flat" alt="iamabhishek2828" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamabhishek2828" alt="iamabhishek2828" /></a> </p>
-
 - 📫 How to reach me **chabhishek281@gmail.com**
 
 ### Blogs posts
@@ -30,4 +26,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamabhishek2828&show_icons=true&locale=en" alt="iamabhishek2828" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamabhishek2828&" alt="iamabhishek2828" /></p>
+
 
