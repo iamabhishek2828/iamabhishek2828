@@ -1,16 +1,18 @@
-name: Update README with blog posts
-
+name: Latest blog post workflow
 on:
   schedule:
-    # Runs every 6 hours
-    - cron: '0 */6 * * *'
+    # Runs every day at midnight
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 jobs:
-  update-readme:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@v1
+      - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://medium.com/feed/@abhishek.04619011622" # Replace with your blog RSS feed
+          max_post_count: "5"
+          feed_list: "https://medium.com/feed/@abhishek.04619011622"
+
