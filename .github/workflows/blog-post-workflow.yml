@@ -8,9 +8,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout code
-      uses: actions/checkout@v3  # Update from @v2 to @v3 to use Node 16+
+      uses: actions/checkout@v3  # Updated to use Node 16+
+      
+    - name: Update README with latest blog posts
+      uses: gautamkrishnar/blog-post-workflow@master
+      with:
+        feed_list: 'https://dev.to/feed/rahuldkjain, https://medium.com/feed/@abhishek.04619011622'
 
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          feed_list: 'https://dev.to/feed/rahuldkjain, https://medium.com/feed/@abhishek.04619011622'
 
