@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Choudhary</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">A passionate Web & ML developer from India</h3>
 
 - 📫 How to reach me **chabhishek281@gmail.com**
 <h3 align="left">Connect with me:</h3>
