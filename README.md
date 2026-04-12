@@ -1,73 +1,129 @@
+<!-- HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abhishek%20Choudhary&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20ML%20Engineer%20%7C%20GenAI%20Builder&descAlignY=55&descSize=16"/>
+
 <div align="center">
 
-<!-- Dynamic Typing Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Abhishek+%F0%9F%91%8B;Full-Stack+Web+Developer+%F0%9F%8C%90;Machine+Learning+Engineer+%F0%9F%A4%96;Building+Things+That+Matter+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&multiline=false&width=600&lines=Building+AI+that+actually+works+%F0%9F%A4%96;RAG+%7C+LLMs+%7C+Multi-Agent+Systems+%F0%9F%A7%A0;From+pixels+to+pipelines+%F0%9F%9A%80;Final+Year+B.Tech+AI%2FML+%40+GGSIPU+%F0%9F%8E%93)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=iamabhishek2828&label=Profile%20Views&color=6C63FF&style=flat-square" alt="Profile Views" />
+<br/>
+
+[![GitHub followers](https://img.shields.io/github/followers/iamabhishek2828?style=for-the-badge&color=blueviolet&label=FOLLOWERS)](https://github.com/iamabhishek2828?tab=followers)
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/iamabhishek2828?label=Followers&style=flat-square&color=6C63FF)](https://github.com/iamabhishek2828)
+![CGPA](https://img.shields.io/badge/CGPA-8.3%2F10-blueviolet?style=for-the-badge)
 
 </div>
 
 ---
 
-## 🧠 About Me
+## 🧠 `whoami`
 
 ```python
 class Abhishek:
-    def __init__(self):
-        self.name       = "Abhishek Choudhary"
-        self.location   = "India 🇮🇳"
-        self.role       = "Web & ML Developer"
-        self.languages  = ["Python", "JavaScript", "TypeScript", "Java", "Rust", "C"]
-        self.passion    = ["Building full-stack apps", "Training ML models", "Open Source"]
-        self.currently  = "Bridging the gap between intelligent models and beautiful UIs"
-        self.reach_me   = "chabhishek281@gmail.com"
+    name        = "Abhishek Choudhary"
+    location    = "Delhi, India 🇮🇳"
+    education   = "B.Tech AI/ML @ GGSIPU (2022–2026) · CGPA: 8.3"
+    currently   = "IT Intern @ Hero FinCorp — Agentic AI & RAG Systems"
+
+    skills = {
+        "GenAI & LLMs" : ["RAG", "LLMs", "Prompt Engineering", "Multi-Agent Systems",
+                          "Hugging Face", "Transformers", "LangChain"],
+        "ML/DL"        : ["PyTorch", "TensorFlow", "Keras", "scikit-learn",
+                          "YOLOv8/v9", "OpenCV", "NLP", "Computer Vision"],
+        "Full-Stack"   : ["React", "Vue.js", "Node.js", "Express", "FastAPI",
+                          "Flask", "TypeScript", "TailwindCSS"],
+        "Data"         : ["Python", "Pandas", "NumPy", "Matplotlib", "Seaborn"],
+        "Databases"    : ["MongoDB", "PostgreSQL", "MySQL", "SQLite", "Supabase"],
+        "Cloud/DevOps" : ["Docker", "WebSockets", "Git", "Linux", "Postman"],
+        "Other"        : ["Rust", "Go", "Java", "C", "Figma", "Flutter"],
+    }
+
+    achievements = [
+        "Built RAG chatbot on 200+ policy docs → 65% faster query resolution",
+        "AI ATS processing 100+ resumes/batch → 75% less screening time",
+        "PwC AI Pension Assistant → 70% cut in handling for 1M+ beneficiaries",
+        "IBM: 0.91 accuracy on 10,000+ water quality records (+12% over baseline)",
+    ]
 
     def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together 🚀")
-
-me = Abhishek()
-me.say_hi()
+        print("I turn complex data and models into real-world impact. Let's connect! 🤝")
 ```
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+**🔍 AI Research Synthesis Agent**
+
+Processes 100+ entities/batch via 4-stage GenAI pipeline: query refinement → semantic retrieval → re-ranking → auto-generated follow-ups. Exports to Excel.
+
+</td>
+<td width="33%" align="center">
+
+**🩺 DermAI – Teledermatology Platform**
+
+~91% diagnostic accuracy across 22+ skin conditions on 15,000+ medical images. PyTorch + real-time doctor consultation integration.
+
+</td>
+<td width="33%" align="center">
+
+**🔬 GastrointestinalAI**
+
+Fine-tuned transformer on 53K+ endoscopic images across 8 categories. Handled 40% class imbalance via weighted loss strategy.
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+**🤖 GenAI & ML**
 
-### ⚙️ Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🤖 AI / ML
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### 🔧 Tools & Others
+**🌐 Full-Stack Web**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+**🗄️ Databases & DevOps**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+**⚙️ Other Languages & Tools**
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
@@ -75,14 +131,23 @@ me.say_hi()
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamabhishek2828&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamabhishek2828&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/iamabhishek2828">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=iamabhishek2828&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  &nbsp;
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamabhishek2828&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</a>
 
-</div>
+<br/><br/>
 
-<div align="center">
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com/?user=iamabhishek2828&theme=tokyonight&hide_border=true" />
+</a>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamabhishek2828&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<br/><br/>
+
+<a href="https://github.com/iamabhishek2828">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamabhishek2828&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+</a>
 
 </div>
 
@@ -92,7 +157,9 @@ me.say_hi()
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=iamabhishek2828&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=iamabhishek2828&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5" width="95%"/>
+</a>
 
 </div>
 
@@ -102,32 +169,28 @@ me.say_hi()
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-choudhary-300b5a257)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/iamabhishek2828)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@abhishek.04619011622)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/abhishek__.choudhary)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-choudhary-300b5a257)
+[![Dev.to](https://img.shields.io/badge/dev.to-%230A0A0A.svg?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/iamabhishek2828)
+[![Medium](https://img.shields.io/badge/Medium-%2312100E.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@abhishek.04619011622)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/abhishek__.choudhary)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chabhishek281@gmail.com)
 
 </div>
 
 ---
 
-## ☕ Support My Work
-
 <div align="center">
 
-If you find my projects useful or just want to fuel my late-night coding sessions 😄
+### ☕ If my work helps you, fuel the next late-night build session
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/abhishek04b)
 
-</div>
+<br/>
 
----
-
-<div align="center">
-
-*"First, solve the problem. Then, write the code."* — John Johnson
-
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+*"The best way to predict the future is to build it." — Alan Kay*
 
 </div>
+
+<!-- FOOTER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
