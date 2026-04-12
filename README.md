@@ -7,9 +7,7 @@
 
 <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/iamabhishek2828?style=for-the-badge&color=blueviolet&label=FOLLOWERS)](https://github.com/iamabhishek2828?tab=followers)
-&nbsp;
-![CGPA](https://img.shields.io/badge/CGPA-8.3%2F10-blueviolet?style=for-the-badge)
+
 &nbsp;
 ![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-success?style=for-the-badge)
 
@@ -19,7 +17,7 @@
 
 <div align="center">
 
-🎓 &nbsp;**B.Tech AI/ML @ GGSIPU, Delhi** &nbsp;·&nbsp; 🏢 &nbsp;**IT Intern @ Hero FinCorp**
+
 <br/>
 🤖 &nbsp;**RAG · LLMs · Multi-Agent Systems · Computer Vision · Full-Stack**
 <br/>
