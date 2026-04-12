@@ -1,43 +1,31 @@
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abhishek%20Choudhary&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20ML%20Engineer%20%7C%20GenAI%20Builder&descAlignY=55&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Abhishek%20Choudhary&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20ML%20Engineer%20%7C%20GenAI%20Builder&descAlignY=58&descSize=17"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&multiline=false&width=600&lines=Building+AI+that+actually+works+%F0%9F%A4%96;RAG+%7C+LLMs+%7C+Multi-Agent+Systems+%F0%9F%A7%A0;From+pixels+to+pipelines+%F0%9F%9A%80;Final+Year+B.Tech+AI%2FML+%40+GGSIPU+%F0%9F%8E%93)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=600&lines=Building+AI+that+actually+works+%F0%9F%A4%96;RAG+%7C+LLMs+%7C+Multi-Agent+Systems+%F0%9F%A7%A0;From+pixels+to+pipelines+%F0%9F%9A%80;Final+Year+B.Tech+AI%2FML+%40+GGSIPU+%F0%9F%8E%93)](https://git.io/typing-svg)
 
+<br/>
+
+[![GitHub followers](https://img.shields.io/github/followers/iamabhishek2828?style=for-the-badge&color=blueviolet&label=FOLLOWERS)](https://github.com/iamabhishek2828?tab=followers)
+&nbsp;
+![CGPA](https://img.shields.io/badge/CGPA-8.3%2F10-blueviolet?style=for-the-badge)
+&nbsp;
+![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-success?style=for-the-badge)
 
 </div>
 
 ---
 
-## 🧠 `whoami`
+<div align="center">
 
-```python
-class Abhishek:
-    name        = "Abhishek Choudhary"
-    skills = {
-        "GenAI & LLMs" : ["RAG", "LLMs", "Prompt Engineering", "Multi-Agent Systems",
-                          "Hugging Face", "Transformers", "LangChain"],
-        "ML/DL"        : ["PyTorch", "TensorFlow", "Keras", "scikit-learn",
-                          "YOLOv8/v9", "OpenCV", "NLP", "Computer Vision"],
-        "Full-Stack"   : ["React", "Vue.js", "Node.js", "Express", "FastAPI",
-                          "Flask", "TypeScript", "TailwindCSS"],
-        "Data"         : ["Python", "Pandas", "NumPy", "Matplotlib", "Seaborn"],
-        "Databases"    : ["MongoDB", "PostgreSQL", "MySQL", "SQLite", "Supabase"],
-        "Cloud/DevOps" : ["Docker", "WebSockets", "Git", "Linux", "Postman"],
-        "Other"        : ["Rust", "Go", "Java", "C", "Figma", "Flutter"],
-    }
+🎓 &nbsp;**B.Tech AI/ML @ GGSIPU, Delhi** &nbsp;·&nbsp; 🏢 &nbsp;**IT Intern @ Hero FinCorp**
+<br/>
+🤖 &nbsp;**RAG · LLMs · Multi-Agent Systems · Computer Vision · Full-Stack**
+<br/>
+📬 &nbsp;[chabhishek281@gmail.com](mailto:chabhishek281@gmail.com) &nbsp;·&nbsp; 📍 &nbsp;Delhi, India
 
-    achievements = [
-        "Built RAG chatbot on 200+ policy docs → 65% faster query resolution",
-        "AI ATS processing 100+ resumes/batch → 75% less screening time",
-        "PwC AI Pension Assistant → 70% cut in handling for 1M+ beneficiaries",
-        "IBM: 0.91 accuracy on 10,000+ water quality records (+12% over baseline)",
-    ]
-
-    def say_hi(self):
-        print("I turn complex data and models into real-world impact. Let's connect! 🤝")
-```
+</div>
 
 ---
 
@@ -45,25 +33,22 @@ class Abhishek:
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="33%" valign="top" align="center">
 
-**🔍 AI Research Synthesis Agent**
-
-Processes 100+ entities/batch via 4-stage GenAI pipeline: query refinement → semantic retrieval → re-ranking → auto-generated follow-ups. Exports to Excel.
-
-</td>
-<td width="33%" align="center">
-
-**🩺 DermAI – Teledermatology Platform**
-
-~91% diagnostic accuracy across 22+ skin conditions on 15,000+ medical images. PyTorch + real-time doctor consultation integration.
+### 🔍 AI Research Synthesis Agent
+4-stage GenAI pipeline processing 100+ entities/batch — LLM query refinement → semantic retrieval → relevance re-ranking → auto follow-ups. Exports structured outputs to Excel in under 60s.
 
 </td>
-<td width="33%" align="center">
+<td width="33%" valign="top" align="center">
 
-**🔬 GastrointestinalAI**
+### 🩺 DermAI – Teledermatology
+~91% diagnostic accuracy across **22+ skin conditions** on 15,000+ medical images. PyTorch + real-time doctor consultation. 50% faster diagnostic turnaround.
 
-Fine-tuned transformer on 53K+ endoscopic images across 8 categories. Handled 40% class imbalance via weighted loss strategy.
+</td>
+<td width="33%" valign="top" align="center">
+
+### 🔬 GastrointestinalAI
+Transformer fine-tuned on **53K+ endoscopic images** across 8 categories. Tackled 40% class imbalance via weighted loss. Benchmarked via hyperparameter tuning.
 
 </td>
 </tr>
@@ -73,7 +58,7 @@ Fine-tuned transformer on 53K+ endoscopic images across 8 categories. Handled 40
 
 ## 🛠️ Tech Stack
 
-**🤖 GenAI & ML**
+**🤖 GenAI & Machine Learning**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -106,7 +91,7 @@ Fine-tuned transformer on 53K+ endoscopic images across 8 categories. Handled 40
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-**⚙️ Other Languages & Tools**
+**⚙️ Languages & Tools**
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
@@ -122,23 +107,13 @@ Fine-tuned transformer on 53K+ endoscopic images across 8 categories. Handled 40
 
 <div align="center">
 
-<a href="https://github.com/iamabhishek2828">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=iamabhishek2828&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  &nbsp;
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamabhishek2828&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</a>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=iamabhishek2828&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+&nbsp;
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamabhishek2828&layout=donut&theme=tokyonight&hide_border=true&langs_count=6" />
 
 <br/><br/>
 
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com/?user=iamabhishek2828&theme=tokyonight&hide_border=true" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/iamabhishek2828">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamabhishek2828&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-</a>
+<img src="https://streak-stats.demolab.com/?user=iamabhishek2828&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" />
 
 </div>
 
@@ -148,9 +123,7 @@ Fine-tuned transformer on 53K+ endoscopic images across 8 categories. Handled 40
 
 <div align="center">
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=iamabhishek2828&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5" width="95%"/>
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=iamabhishek2828&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" />
 
 </div>
 
@@ -172,7 +145,7 @@ Fine-tuned transformer on 53K+ endoscopic images across 8 categories. Handled 40
 
 <div align="center">
 
-### ☕ If my work helps you, fuel the next late-night build session
+### ☕ Fuel the next late-night build session
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/abhishek04b)
 
@@ -184,4 +157,3 @@ Fine-tuned transformer on 53K+ endoscopic images across 8 categories. Handled 40
 
 <!-- FOOTER WAVE -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-
