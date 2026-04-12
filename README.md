@@ -5,11 +5,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&multiline=false&width=600&lines=Building+AI+that+actually+works+%F0%9F%A4%96;RAG+%7C+LLMs+%7C+Multi-Agent+Systems+%F0%9F%A7%A0;From+pixels+to+pipelines+%F0%9F%9A%80;Final+Year+B.Tech+AI%2FML+%40+GGSIPU+%F0%9F%8E%93)](https://git.io/typing-svg)
 
-<br/>
-
-[![GitHub followers](https://img.shields.io/github/followers/iamabhishek2828?style=for-the-badge&color=blueviolet&label=FOLLOWERS)](https://github.com/iamabhishek2828?tab=followers)
-&nbsp;
-![CGPA](https://img.shields.io/badge/CGPA-8.3%2F10-blueviolet?style=for-the-badge)
 
 </div>
 
