@@ -20,10 +20,6 @@
 ```python
 class Abhishek:
     name        = "Abhishek Choudhary"
-    location    = "Delhi, India 🇮🇳"
-    education   = "B.Tech AI/ML @ GGSIPU (2022–2026) · CGPA: 8.3"
-    currently   = "IT Intern @ Hero FinCorp — Agentic AI & RAG Systems"
-
     skills = {
         "GenAI & LLMs" : ["RAG", "LLMs", "Prompt Engineering", "Multi-Agent Systems",
                           "Hugging Face", "Transformers", "LangChain"],
