@@ -104,37 +104,7 @@ philosophy: >
 ![Figma](https://img.shields.io/badge/Figma-111827?style=for-the-badge&logo=figma)
 ![Postman](https://img.shields.io/badge/Postman-111827?style=for-the-badge&logo=postman)
 
----
 
-<h2>
-  <img src="https://cdn.simpleicons.org/github/22C55E" width="22" align="center"/>
-  &nbsp;GitHub Stats
-</h2>
-
-<div align="center">
-
-<!-- Stats refresh daily via GitHub Actions (see .github/workflows/refresh.yml) -->
-<!-- Cache-busting timestamp appended to force CDN refresh -->
-
-<img src="https://streak-stats.demolab.com?user=iamabhishek2828&theme=tokyonight&hide_border=true&mode=weekly&card_width=500&cacheBust=1"/>
-
-<br/><br/>
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamabhishek2828&theme=tokyonight&cacheBust=1"/>
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iamabhishek2828&theme=tokyonight&cacheBust=1"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iamabhishek2828&theme=tokyonight&cacheBust=1"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamabhishek2828&theme=tokyonight&cacheBust=1"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iamabhishek2828&theme=tokyonight&utcOffset=5.5&cacheBust=1"/>
-
-</div>
-
----
 
 <h2>
   <img src="https://cdn.simpleicons.org/notion/22C55E" width="22" align="center"/>
